@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SalutMonde</string>
+    <string name="titulo_app">Mon bonjour monde</string>
+    <string name="texto">Le texte de la demande</string>
+</resources>
